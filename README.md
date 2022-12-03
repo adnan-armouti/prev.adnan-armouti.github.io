@@ -1,2 +1,3 @@
 # adnan-armouti.github.io
-Adnan's Website
+
+Website Designed with a Visually Appealing Parallax Scrolling Effect
